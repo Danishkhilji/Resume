@@ -1,0 +1,14 @@
+*{
+    background-color: gray;
+ }
+h1,th
+{
+    color: white;
+}
+hr.line{
+    border-top: 1px solid black;
+}
+.para1
+{
+    color: green;
+}
